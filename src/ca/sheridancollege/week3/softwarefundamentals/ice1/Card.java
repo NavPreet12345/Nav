@@ -26,6 +26,12 @@ public class Card {
     public String getSuit() {
         return suit;
     }
+    
+    
+    
+    
+    
+    
 
     /**
      * @param suit the suit to set
